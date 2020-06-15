@@ -1,2 +1,4 @@
 # wise
-THis doesn't appear to be a place for text, instead looks like a place to load code. I will have two types of R code here and include links to original sources/packages
+
+Using git for wise ensures those in WISE learn git, and that the code is easily accessible to all. 
+I can also change code with updates without having to search for files.
